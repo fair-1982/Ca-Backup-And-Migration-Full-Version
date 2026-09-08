@@ -230,3 +230,6 @@ This repository serves as the official landing page for CA Backup and Migration.
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of CA Backup and Migration today!**
+
+---
+**Last updated:** 2026-09-08 07:27:45 UTC
