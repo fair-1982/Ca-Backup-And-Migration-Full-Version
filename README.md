@@ -232,4 +232,4 @@ This repository serves as the official landing page for CA Backup and Migration.
 **Get the most recent version of CA Backup and Migration today!**
 
 ---
-**Last updated:** 2026-09-15 20:29:39 UTC
+**Last updated:** 2026-09-15 23:13:11 UTC
